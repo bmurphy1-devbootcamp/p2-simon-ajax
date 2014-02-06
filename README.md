@@ -1,7 +1,7 @@
 p2-simon-ajax
 =============
 
-This challenge was to dd jQuery to the provided Sinatra Shell for a simple Simon Says game. Each new color is added after the user clicks the "Click Me' button.
+This challenge was to add jQuery to the provided Sinatra Shell for a simple Simon Says game. Each new color is added after the user clicks the "Click Me' button.
 
 Modify the shell code to implement the following functionality:
 
